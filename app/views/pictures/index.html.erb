@@ -1,0 +1,13 @@
+<h1>All Pictures</h1>
+
+<% @pictures.each do |picture| %>
+  <div class="mb-4">
+    <%= link_to picture_path(picture) do %>
+      <%= render picture %>
+    <% end %>
+  </div>
+<% end %>
+
+<% if user_signed_in? %>
+  <%= link_to 'Upload New Picture', new_picture_path, class: 'btn btn-primary' %>
+<% end %>
