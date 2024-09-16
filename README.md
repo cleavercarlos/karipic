@@ -22,3 +22,16 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+agrego links de mi sitio
+
+
+render
+
+https://mysite-8iee.onrender.com
+
+git hub
+
+https://github.com/cleavercarlos/karipic
+
