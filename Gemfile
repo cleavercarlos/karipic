@@ -63,4 +63,4 @@ gem "devise", "~> 4.9"
 
 gem "activestorage", "~> 7.2"
 
-gem "aws-sdk-s3", "~> 1.162"
+gem "aws-sdk-s3", "~> 1.163"
